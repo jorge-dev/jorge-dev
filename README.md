@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jorge-dev
 - 👀 I’m interested in programming and anything to do with technology
 - 🌱 I’m currently learning so many things but of the type of my head: Confluent Kafka, Data driven architechture, machine learning and AWS services
-- 💞️ I’m looking to collaborate on nothing at the moment. But  I will be looking for open source projects to contribut to
+- 💞️ I’m looking to collaborate on nothing at the moment. But  I will be looking for open source projects to contribute to
 - 📫 You can reach me at jorge.adev@outlook.com
 
 <!---
